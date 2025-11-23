@@ -19,7 +19,7 @@ export default function Home() {
       </div>
 
       <div className="flex justify-center">
-        <img src="jem.jpg" width={200} height={200} className="rounded-xl shadow"/>
+        <Image src="/jem.jpg" alt="Jemarie profile picture" width={200} height={200} className="rounded-xl shadow"/>
       </div>
     </section>
   );
